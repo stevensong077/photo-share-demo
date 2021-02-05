@@ -5,6 +5,7 @@ import {
   createStyles,
   makeStyles,
 } from "@material-ui/core/styles";
+import { StyleSheet, Text, View } from 'react-native';
 import Table from "@material-ui/core/Table";
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
